@@ -1,0 +1,5 @@
+# requirements.txt
+
+# List of required packages for the text editor
+
+# No external packages are needed for this basic text editor.
